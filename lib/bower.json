@@ -3,10 +3,10 @@
   "description": "",
   "main": "index.js",
   "authors": [
-    "Zoe Ames <zoeames@gmail.com>"
+    "Bin Li <libin_75@hotmail.com>"
   ],
   "license": "ISC",
-  "homepage": "https://github.com/zoeames/NSS-evening-class-curriculum",
+  "homepage": "https://github.com/LibE4",
   "ignore": [
     "**/.*",
     "node_modules",
